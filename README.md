@@ -1,6 +1,8 @@
 # kipi-chatbot
 A chatbot web application using Flask and OpenAI GPT 4o.
 
+ <img src="docs/images/kipi-chatbot-screenshot.png" width="45%"/> <img src="docs/images/kipi-chatbot-video-english.gif" width="45%"/>
+
 ## Prerequisite
 - Installation of Python 3 on your computer.
 
