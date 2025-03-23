@@ -9,7 +9,7 @@ A chatbot web application using Flask and OpenAI GPT 4o.
 ## Getting Started
 Clone the repository:
 ```shell
-git clone https://github.com/hascheel/kipi-chatbot.git
+git clone https://github.com/hardyscheel/kipi-chatbot.git
 ```
 
 Create a Python virtual environment:
